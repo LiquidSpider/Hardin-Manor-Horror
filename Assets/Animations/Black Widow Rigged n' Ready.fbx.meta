@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: f510c1f5c2c533a4c98e5ccc6af87555
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 9174639960465750329
+    second: thorax handle.001|foreleg_handle_LAction
+  - first:
+      74: -7707215291948054726
+    second: thorax handle.001|foreleg_handle_RAction
+  - first:
+      74: 7193626430956094434
+    second: foreleg_2_handle_L|foreleg_handle_LAction
+  - first:
+      74: -6141811351476310330
+    second: foreleg_2_handle_L|foreleg_handle_RAction
+  - first:
+      74: -7833799174250188853
+    second: foreleg_2_handle_R|foreleg_handle_LAction
+  - first:
+      74: 5337102655091023495
+    second: foreleg_2_handle_R|foreleg_handle_RAction
+  - first:
+      74: 6256077825717714642
+    second: foreleg_handle_L|foreleg_handle_LAction
+  - first:
+      74: 2942568094062185376
+    second: foreleg_handle_L|foreleg_handle_RAction
+  - first:
+      74: 2380534051816560828
+    second: foreleg_handle_R|foreleg_handle_LAction
+  - first:
+      74: 7051297367243677488
+    second: foreleg_handle_R|foreleg_handle_RAction
+  - first:
+      74: -103392259008577586
+    second: hindleg_handle_L|foreleg_handle_LAction
+  - first:
+      74: -5540486954416065677
+    second: hindleg_handle_L|foreleg_handle_RAction
+  - first:
+      74: -1826654170775920227
+    second: hindleg_handle_R|foreleg_handle_LAction
+  - first:
+      74: 857299886578853275
+    second: hindleg_handle_R|foreleg_handle_RAction
+  - first:
+      74: -3696058573303960438
+    second: midleg_handle_L|foreleg_handle_LAction
+  - first:
+      74: 2090323712722795316
+    second: midleg_handle_L|foreleg_handle_RAction
+  - first:
+      74: -4318523228336069581
+    second: midleg_handle_R|foreleg_handle_LAction
+  - first:
+      74: 6418726895735050968
+    second: midleg_handle_R|foreleg_handle_RAction
+  - first:
+      74: 5989769359597121722
+    second: thorax handle|foreleg_handle_LAction
+  - first:
+      74: 6243761154199534280
+    second: thorax handle|foreleg_handle_RAction
+  - first:
+      74: 2264077025236624520
+    second: Armature.001|Armature.001Action
+  - first:
+      74: -9069736461833792049
+    second: Armature.001|Armature.004Action
+  - first:
+      74: -5142241952092147453
+    second: Armature.001|Armature.005Action
+  - first:
+      74: 3175443126462078328
+    second: Armature.001|Armature.008Action
+  - first:
+      74: 2273945937156961387
+    second: Armature.001|foreleg_handle_LAction
+  - first:
+      74: 5237452158652895697
+    second: Armature.001|foreleg_handle_RAction
+  - first:
+      74: -9027478188125155498
+    second: Armature.004|Armature.001Action
+  - first:
+      74: -5669740592792570897
+    second: Armature.004|Armature.004Action
+  - first:
+      74: 2200778306023475783
+    second: Armature.004|Armature.005Action
+  - first:
+      74: 2283084956576246262
+    second: Armature.004|Armature.008Action
+  - first:
+      74: 2198967082845974464
+    second: Armature.004|foreleg_handle_LAction
+  - first:
+      74: -720881523272935596
+    second: Armature.004|foreleg_handle_RAction
+  - first:
+      74: 3379960435701499455
+    second: Armature.005|Armature.001Action
+  - first:
+      74: -5346695045666235549
+    second: Armature.005|Armature.004Action
+  - first:
+      74: 7413068192051285482
+    second: Armature.005|Armature.005Action
+  - first:
+      74: 1126462432257382006
+    second: Armature.005|Armature.008Action
+  - first:
+      74: -8942547663384439495
+    second: Armature.005|foreleg_handle_LAction
+  - first:
+      74: 5570251233501964776
+    second: Armature.005|foreleg_handle_RAction
+  - first:
+      74: 1031048772513556691
+    second: Armature.008|Armature.001Action
+  - first:
+      74: 2433080871190810255
+    second: Armature.008|Armature.004Action
+  - first:
+      74: -8543730622077933690
+    second: Armature.008|Armature.005Action
+  - first:
+      74: 899012397967054675
+    second: Armature.008|Armature.008Action
+  - first:
+      74: -2336626357208572449
+    second: Armature.008|foreleg_handle_LAction
+  - first:
+      74: -4599684457473867085
+    second: Armature.008|foreleg_handle_RAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
